@@ -1,2 +1,4 @@
 # SF11-C
-Python code for serial porting of SF11-C data
+Python3 code for serial porting of SF11-C data using a Raspberry Pi 
+
+
