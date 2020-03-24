@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ### Python3 serial for Lightware SF11/C laser rangefinder on RPi
 # uses ttyUSB0 - change as required to relevant serial port
 ### Tim Whiteside
